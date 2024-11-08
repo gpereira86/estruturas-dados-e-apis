@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projetos/Fila/Fila.iml" filepath="$PROJECT_DIR$/projetos/Fila/Fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estruturas-dados-apis-etc.iml" filepath="$PROJECT_DIR$/.idea/estruturas-dados-apis-etc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos/pilhas/pilhas.iml" filepath="$PROJECT_DIR$/projetos/pilhas/pilhas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos/projetoatribuicaoreferencia/projetoatribuicaoreferencia.iml" filepath="$PROJECT_DIR$/projetos/projetoatribuicaoreferencia/projetoatribuicaoreferencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos/projetono/projetono.iml" filepath="$PROJECT_DIR$/projetos/projetono/projetono.iml" />
+    </modules>
+  </component>
+</project>
