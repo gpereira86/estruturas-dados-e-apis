@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6bce81c-2133-4f09-86f9-5b518439016e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/ArvoreBinaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/BinNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/model/Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinovation/model/ObjArvore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6bce81c-2133-4f09-86f9-5b518439016e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +47,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/glauc/OneDrive/Estudo/Cursos/DIO/JAVA/Projetos/estruturas-dados-apis-etc/projetos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732282795509</updated>
-      <workItem from="1732282796481" duration="8810000" />
+      <workItem from="1732282796481" duration="9002000" />
     </task>
     <servers />
   </component>
